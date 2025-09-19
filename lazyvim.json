@@ -1,11 +1,10 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.dap.core",
-    "lazyvim.plugins.extras.lang.java",
-    "lazyvim.plugins.extras.lang.yaml"
+    "lazyvim.plugins.extras.lang.java"
   ],
+  "install_version": 8,
   "news": {
-    "NEWS.md": "2123"
+    "NEWS.md": "11866"
   },
-  "version": 2
+  "version": 8
 }
